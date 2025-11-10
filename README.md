@@ -27,7 +27,26 @@ When you click on the Cones Image in the Sub Tab. There won't be a image that po
 <img width="1068" height="302" alt="image" src="https://github.com/user-attachments/assets/a7a9ea64-f6ff-4375-bbc0-96688f2f04c9" />
 
 <h2>Charm & Trait</h2>
-Charms have the same concept as Technique & Spell, opening the item and make sure it's active. Only difference is that there's a notch count that is displayed, and will do that math for you. The Bonus Effects dropdown is only for display and give information to the user what is changing.
+Charms have the same concept as Technique & Spell, opening the item and make sure it's active. Only difference is that there's a notch count that is displayed and does the math for you. The Bonus Effects dropdown is only for display and give information to the user what is changing. Trait calculation is done for you and the result reflects on the Attributes main tab.
+
+<h2>Path</h2>
+Path have the same concept as Technique & Spell, opening the item and make sure it's active. Only this time there are three options and are marked yes when you level up. The book icon on the list display's the whole information of the path, but inside the item you can display certain infomation. The Martial & Mystic Rank cannot be automated as there are certain hombrew Path that let you choose which Rank you want to increase. But whatever changes made onthe total will increase the Max Soul or Stamina in your main hub.
+
+<h2>Effects</h2>
+Not everything can be covered so this is a precaution if anything crazy happens. The big difference is the Effect, these will relect on your Attributes tab; and you can increase or decrease stats based on the effect.
+Active effects is something extra that can relect on the character icon on the board, this doesn't change anything on the character sheet.
+Lastly the table at the bottom. When a character levels up every 2 levels they can spend a point on minor advanements. Its a niche topic that isn't written in one spot of the book, it is spread along the pages as it can also effects Path, Weapons, and even Recipes. Debuff are basic stuff from the book. Damage Over Time is extra because anything can be created, this is just covering the basics.
+
+<img width="748" height="579" alt="image" src="https://github.com/user-attachments/assets/2ed19666-4437-4031-b149-396de4191c55" />
+
+<h2>Biography</h2>
+Basic stuff, used to create the personality of your bug.
+
+<h2>Info</h2>
+It's the meat and bones of the character sheet. It shows you the Main stats, Base stats, player size, level items, etc. To simplify things the stats here are static, they only change based on what the size of the bug. And the checkmarks next to cute and Spook are the bonus points when you make a character. The items below are everthing that the character have on them. This is the only spot you can delete the items from the sheet. I'm doing this to prevent clutter and accidental removal.
+
+
+
 
 
 
