@@ -1,7 +1,7 @@
 # Hollow-Knight-RPG
 Used for Foundry V12
 
-To use this system for Foundry VTT, please install [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) version 4.8.5 by [LinkedFluuuush](https://gitlab.com/linkedfluuuush) as your game system. At the moment the system will be on version 12 until some bugs can be fixed for version 13 on foundry.
+To use this system for Foundry VTT, please install [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) version 4.8.5 by [LinkedFluuuush](https://gitlab.com/linkedfluuuush) as your game system. At the moment the system will be on version 12 until some bugs can be fixed for version 13 on foundry. When it's updated, i'll share both data files for version 12 and 13 incase there are external add-on mods that don't update.
 
 <h2>What to know</h2>
 When you launch the world and look into the Actors Tab. You'll see a folder named template. It contains an examples of the character sheet and a folder called <b>'Do Not Delete'</b>. I recommend to not delete anything under these <B>'Do Not Delete'</B> folders. They are the raw templates of the character sheets and items for the world. You'll later come across folders named <B>'Can Modify'</B>. These are used to add new items into the game, just make sure to duplicate them as these are left blank. And lastly <B>'Template Encyclopedia'</B> are used for Quality of Life changes, essentially they are hyperlinks for minor info from the PDF's.
@@ -24,7 +24,9 @@ As long as Technique & Spell are set to 'yes' on prepared? when looking into the
 <img width="751" height="434" alt="image" src="https://github.com/user-attachments/assets/bea368d4-e666-481f-87ce-362ec371bd3e" />
 <h3>Side Note:</h3>
 When you click on the Cones Image in the Sub Tab. There won't be a image that pops up for in chat. Please download the image here and edit the character sheet. There's a button on the top right of the character sheet called 'Open Template Sheet'. An pop-up will display and click on 'Technique & Spell' on the Main Tab. Scroll all the way down to the Sub Tab and click on 'Magic' Then click on the 'Cones Image' and another pop-up called 'Edit Component' will be displayed. In the area called 'Label roll message', click on a box that has 'rich text editor'. From there you can drag and drop the image, save the edit. Back in the 'Open Template Sheet', click on 'Reload all character sheets', this will refresh the all sheets.
+
 <img width="1068" height="302" alt="image" src="https://github.com/user-attachments/assets/a7a9ea64-f6ff-4375-bbc0-96688f2f04c9" />
+<img width="1893" height="694" alt="image" src="https://github.com/user-attachments/assets/ca0a3985-a8ed-4000-8929-ad9f10e42e38" />
 
 <h2>Charm & Trait</h2>
 Charms have the same concept as Technique & Spell, opening the item and make sure it's active. Only difference is that there's a notch count that is displayed and does the math for you. The Bonus Effects dropdown is only for display and give information to the user what is changing. Trait calculation is done for you and the result reflects on the Attributes main tab.
