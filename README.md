@@ -3,6 +3,11 @@ Used for Foundry V12
 
 To use this system for Foundry VTT, please install [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) version 4.8.5 by [LinkedFluuuush](https://gitlab.com/linkedfluuuush) as your game system. At the moment the system will be on version 12 until some bugs can be fixed for version 13 on foundry. When it's updated, i'll share both data files for version 12 and 13 incase there are external add-on mods that don't update.
 
+<h2>Warning</h2>
+Please save your progress and upload your stuff into a compendium. It's better to make a shared comendium as the data file provided will delete anything you made prior. Use this youtube link for any help with said transfer.
+<img width="495" height="275" alt="image" src="https://github.com/user-attachments/assets/63152557-7b54-40b3-bd2b-6ac7e2ff9359" />
+https://www.youtube.com/watch?v=RaRtUkNdoig
+
 <h2>What to know</h2>
 When you launch the world and look into the Actors Tab. You'll see a folder named template. It contains an examples of the character sheet and a folder called <b>'Do Not Delete'</b>. I recommend to not delete anything under these <B>'Do Not Delete'</B> folders. They are the raw templates of the character sheets and items for the world. You'll later come across folders named <B>'Can Modify'</B>. These are used to add new items into the game, just make sure to duplicate them as these are left blank. And lastly <B>'Template Encyclopedia'</B> are used for Quality of Life changes, essentially they are hyperlinks for minor info from the PDF's.
 
